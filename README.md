@@ -1,6 +1,6 @@
 ﻿# Semantic Segmentation
 
- Semantic Segmentations performed on two datasets:
+ Semantic Segmentations performed on two datasets as part of the Deep Learning using Keras and Tensorflow course:
  1. KITTI Road dataset
  2. CAMVID dataset
 
